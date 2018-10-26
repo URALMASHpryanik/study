@@ -1,0 +1,11 @@
+C:\Users\a.pryanikov\source\repos\SandBox777\SandBox777\bin\Debug\netcoreapp2.0\SandBox777.deps.json
+C:\Users\a.pryanikov\source\repos\SandBox777\SandBox777\bin\Debug\netcoreapp2.0\SandBox777.runtimeconfig.json
+C:\Users\a.pryanikov\source\repos\SandBox777\SandBox777\bin\Debug\netcoreapp2.0\SandBox777.runtimeconfig.dev.json
+C:\Users\a.pryanikov\source\repos\SandBox777\SandBox777\bin\Debug\netcoreapp2.0\SandBox777.dll
+C:\Users\a.pryanikov\source\repos\SandBox777\SandBox777\obj\Debug\netcoreapp2.0\SandBox777.csprojResolveAssemblyReference.cache
+C:\Users\a.pryanikov\source\repos\SandBox777\SandBox777\obj\Debug\netcoreapp2.0\SandBox777.csproj.CoreCompileInputs.cache
+C:\Users\a.pryanikov\source\repos\SandBox777\SandBox777\obj\Debug\netcoreapp2.0\SandBox777.AssemblyInfoInputs.cache
+C:\Users\a.pryanikov\source\repos\SandBox777\SandBox777\obj\Debug\netcoreapp2.0\SandBox777.AssemblyInfo.cs
+C:\Users\a.pryanikov\source\repos\SandBox777\SandBox777\bin\Debug\netcoreapp2.0\SandBox777.pdb
+C:\Users\a.pryanikov\source\repos\SandBox777\SandBox777\obj\Debug\netcoreapp2.0\SandBox777.dll
+C:\Users\a.pryanikov\source\repos\SandBox777\SandBox777\obj\Debug\netcoreapp2.0\SandBox777.pdb
